@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Kingsrook/qqq/qqq-backend-core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Kingsrook/qqq/qqq-backend-core/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Kingsrook/qqq/qqq-backend-module-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Kingsrook/qqq/qqq-backend-module-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Kingsrook/qqq/qqq-backend-module-filesystem/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Kingsrook/qqq/qqq-backend-module-filesystem/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Kingsrook/qqq/qqq-backend-module-mongodb/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Kingsrook/qqq/qqq-backend-module-mongodb/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Kingsrook/qqq/qqq-backend-module-rdbms/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Kingsrook/qqq/qqq-backend-module-rdbms/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Kingsrook/qqq/qqq-backend-module-sqlite/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Kingsrook/qqq/qqq-backend-module-sqlite/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Kingsrook/qqq/qqq-bom/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Kingsrook/qqq/qqq-bom/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Kingsrook/qqq/qqq-language-support-javascript/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Kingsrook/qqq/qqq-language-support-javascript/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Kingsrook/qqq/qqq-middleware-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Kingsrook/qqq/qqq-middleware-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Kingsrook/qqq/qqq-middleware-javalin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Kingsrook/qqq/qqq-middleware-javalin/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Kingsrook/qqq/qqq-middleware-lambda/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Kingsrook/qqq/qqq-middleware-lambda/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Kingsrook/qqq/qqq-middleware-picocli/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Kingsrook/qqq/qqq-middleware-picocli/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Kingsrook/qqq/qqq-middleware-slack/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Kingsrook/qqq/qqq-middleware-slack/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Kingsrook/qqq/qqq-openapi/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Kingsrook/qqq/qqq-openapi/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Kingsrook/qqq/qqq-sample-project/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Kingsrook/qqq/qqq-sample-project/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Kingsrook/qqq/qqq-utility-lambdas/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Kingsrook/qqq/qqq-utility-lambdas/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Kingsrook/qqq/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Kingsrook/qqq/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Kof22/Website/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Kof22/Website/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
