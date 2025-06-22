@@ -2,6 +2,7 @@
   <configuration default="false" name="ServerOnly" type="Application" factoryName="Application">
     <option name="MAIN_CLASS_NAME" value="com.kof22.website.Server" />
     <module name="kof22-website" />
+    <option name="PROGRAM_PARAMETERS" value="$MODULE_DIR$$MODULE_WORKING_DIR$" />
     <extension name="coverage">
       <pattern>
         <option name="PATTERN" value="com.kof22.website.*" />
