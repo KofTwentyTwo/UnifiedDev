@@ -15,7 +15,7 @@
         <package-json value="$PROJECT_DIR$/Kof22/Website/src/main/frontend/package.json" />
         <command value="run" />
         <scripts>
-          <script value="build" />
+          <script value="build-and-move" />
         </scripts>
         <node-interpreter value="project" />
         <envs />
