@@ -4,11 +4,15 @@
     <checkstyleVersion>10.25.0</checkstyleVersion>
     <scanScope>JavaOnly</scanScope>
     <option name="thirdPartyClasspath" />
-    <option name="activeLocationIds" />
+    <option name="activeLocationIds">
+      <option value="cebcbf38-2732-411d-a8d0-43118622fd68" />
+    </option>
     <option name="locations">
       <list>
         <ConfigurationLocation id="bundled-sun-checks" type="BUNDLED" scope="All" description="Sun Checks">(bundled)</ConfigurationLocation>
         <ConfigurationLocation id="bundled-google-checks" type="BUNDLED" scope="All" description="Google Checks">(bundled)</ConfigurationLocation>
+        <ConfigurationLocation id="52c9f7d1-120a-4171-a84f-90a7f7376567" type="PROJECT_RELATIVE" scope="All" description="Kingsrook Checkstyle">$PROJECT_DIR$/../Kingsrook/qqq/checkstyle/config.xml</ConfigurationLocation>
+        <ConfigurationLocation id="cebcbf38-2732-411d-a8d0-43118622fd68" type="PROJECT_RELATIVE" scope="All" description="Kof22 Checkstyle">$PROJECT_DIR$/../Kof22/Website/checkstyle/config.xml</ConfigurationLocation>
       </list>
     </option>
   </component>
