@@ -1,5 +1,8 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="ServerOnly" type="Application" factoryName="Application">
+    <envs>
+      <env name="QQQ_DEPLOYMENT" value="dev" />
+    </envs>
     <option name="MAIN_CLASS_NAME" value="com.kof22.website.Server" />
     <module name="kof22-website" />
     <option name="PROGRAM_PARAMETERS" value="$MODULE_DIR$$MODULE_WORKING_DIR$" />

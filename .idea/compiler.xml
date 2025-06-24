@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="qqq-middleware-picocli" />
+        <module name="qqq-frontend-material-dashboard" />
         <module name="qqq-openapi" />
         <module name="qqq-backend-module-rdbms" />
         <module name="qqq-utility-lambdas" />
