@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CustomStrategyConfig" sequenceNamingStrategy="SINGLE_SEQUENCE" />
+  <component name="JpaBuddyIdeaProjectConfig">
+    <option name="newEntityIdStrategy" value="Identity" />
+    <option name="newEntityIdType" value="Long" />
+  </component>
+  <component name="JpaPluginProjectSettings">
+    <option name="lastSelectedLanguage" value="Java" />
+  </component>
+  <component name="PersistenceUnitSettings">
+    <persistence-units>
+      <persistence-unit moduleName="kof22-website" name="dev-kof22-website" framework="JPA" ormUnit="kof22-website:default" defaultDataSourceId="f0dcba12-1a16-42e6-8156-80515b192850" />
+    </persistence-units>
+  </component>
+</project>

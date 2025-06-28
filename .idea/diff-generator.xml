@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DiffGenerationConfig">
+    <option name="liquibaseAuthor" value="" />
+    <option name="snapshotDb" value="false" />
+    <option name="snapshotDirValue" value="$PROJECT_DIR$/Kof22/Website/src/main/resources/liquibase/snapshots" />
+    <option name="snapshotModelValue" value="kof22-website:default" />
+    <option name="sourceModelValue" value="kof22-website:default" />
+    <option name="targetDbValue" value="f0dcba12-1a16-42e6-8156-80515b192850" />
+    <option name="targetSnapshotValue" value="$PROJECT_DIR$/Kof22/Website/src/main/resources/liquibase/snapshots/data-model-snapshot.json" />
+    <option name="updateChangeLogPath" value="Kof22/Website/src/main/resources/db/liquibase/changelog.yaml" />
+    <option name="updateDbConnectionName" value="f0dcba12-1a16-42e6-8156-80515b192850" />
+    <option name="updateLogLevel" value="INFO" />
+  </component>
+</project>
