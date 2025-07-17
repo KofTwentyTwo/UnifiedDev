@@ -1,5 +1,7 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="ServerAndFrontend" type="Application" factoryName="Application">
+    <option name="ALTERNATIVE_JRE_PATH" value="openjdk-24" />
+    <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
     <envs>
       <env name="QQQ_DEPLOYMENT" value="dev" />
     </envs>
@@ -15,7 +17,7 @@
     <method v="2">
       <option name="Make" enabled="true" />
       <option name="NpmBeforeRunTask" enabled="true">
-        <package-json value="$PROJECT_DIR$/Kof22/Website/src/main/frontend/package.json" />
+        <package-json value="$PROJECT_DIR$/../Kof22/Website/src/main/frontend/package.json" />
         <command value="run" />
         <scripts>
           <script value="build-and-move" />

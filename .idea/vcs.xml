@@ -2,9 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Kingsrook/frontend-material-dashboard" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Kingsrook/qqq" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Kof22/Website" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Kof22/Website-CD-Pipeline" vcs="Git" />
   </component>
 </project>

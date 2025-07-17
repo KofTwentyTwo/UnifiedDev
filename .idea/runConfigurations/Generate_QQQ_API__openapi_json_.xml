@@ -2,7 +2,7 @@
   <configuration default="false" name="Generate QQQ API (openapi.json)" type="SwaggerCodegen" editBeforeRun="true" show_console_on_std_err="false" show_console_on_std_out="false">
     <option name="allowRunningInParallel" value="false" />
     <option name="customTemplatesPath" value="" />
-    <option name="generateToPath" value="$PROJECT_DIR$/Kof22/Website/src/main/frontend/src/api" />
+    <option name="generateToPath" value="$PROJECT_DIR$/src/main/frontend/src/api" />
     <option name="generationParameters">
       <list>
         <CliArgumentViewModel>
@@ -26,7 +26,7 @@
     <option name="selectedOptions">
       <list />
     </option>
-    <option name="specificationPath" value="$PROJECT_DIR$/Kof22/Website/src/main/frontend/src/openapi.json" />
+    <option name="specificationPath" value="$PROJECT_DIR$/src/main/frontend/src/api/openapi.json" />
     <method v="2" />
   </configuration>
 </component>

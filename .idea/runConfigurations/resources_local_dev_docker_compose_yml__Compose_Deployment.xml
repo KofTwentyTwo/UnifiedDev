@@ -4,7 +4,7 @@
       <settings>
         <option name="composeProjectName" value="kof22-website" />
         <option name="envFilePath" value="" />
-        <option name="sourceFilePath" value="Kof22/Website/src/test/resources/local-dev_docker-compose.yml" />
+        <option name="sourceFilePath" value="src/test/resources/local-dev_docker-compose.yml" />
       </settings>
     </deployment>
     <method v="2" />

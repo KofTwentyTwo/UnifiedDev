@@ -1,12 +1,15 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="FrontDev" type="js.build_tools.npm">
-    <package-json value="$PROJECT_DIR$/Kof22/Website/src/main/frontend/package.json" />
+    <package-json value="$PROJECT_DIR$/../Kof22/Website/src/main/frontend/package.json" />
     <command value="run" />
     <scripts>
       <script value="dev" />
     </scripts>
-    <node-interpreter value="project" />
+    <node-interpreter value="node" />
     <envs />
+    <EXTENSION ID="com.intellij.lang.javascript.buildTools.npm.rc.StartBrowserRunConfigurationExtension">
+      <browser start="true" with-js-debugger="true" url="http://localhost:5173" />
+    </EXTENSION>
     <method v="2" />
   </configuration>
 </component>
