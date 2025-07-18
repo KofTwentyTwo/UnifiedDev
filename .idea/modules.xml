@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Kof22/Website-CD-Pipeline/Website-CD-Pipeline.iml" filepath="$PROJECT_DIR$/../Kof22/Website-CD-Pipeline/Website-CD-Pipeline.iml" />
       <module fileurl="file://$PROJECT_DIR$/Kof22/Website/kof22-website.iml" filepath="$PROJECT_DIR$/Kof22/Website/kof22-website.iml" />
       <module fileurl="file://$PROJECT_DIR$/unified-parent.iml" filepath="$PROJECT_DIR$/unified-parent.iml" />
     </modules>

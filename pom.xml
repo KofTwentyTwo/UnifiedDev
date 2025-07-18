@@ -1,7 +1,7 @@
 <!--
   ~ All Rights Reserved
   ~
-  ~ Copyright (c) 2025. QRunIO
+  ~ Copyright (c) 2025. Kof22
   ~
   ~ THE CONTENTS OF THIS PROJECT ARE PROPRIETARY AND CONFIDENTIAL.
   ~ UNAUTHORIZED COPYING, TRANSFERRING, OR REPRODUCTION OF ANY PART OF THIS PROJECT, VIA ANY MEDIUM, IS STRICTLY PROHIBITED.
@@ -23,5 +23,6 @@
   <modules>
     <module>Kingsrook/qqq</module>
     <module>Kof22/Website</module>
+     <module>Kof22/Website-CD-Pipeline</module>
   </modules>
 </project>
