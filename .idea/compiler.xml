@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="qqq-middleware-picocli" />
         <module name="qqq-frontend-material-dashboard" />
+        <module name="qqq-backend-module-postgres" />
         <module name="qqq-openapi" />
         <module name="qqq-backend-module-rdbms" />
         <module name="qqq-utility-lambdas" />
@@ -23,13 +24,13 @@
         <module name="kof22-website" />
         <module name="qqq-sample-project" />
       </profile>
-      <profile name="Annotation profile for unified-parent" enabled="true">
+      <profile name="Annotation profile for QQQ - Low-code Application Framework" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="false">
-          <entry name="$MAVEN_REPOSITORY$/io/javalin/community/openapi/openapi-annotation-processor/6.6.0/openapi-annotation-processor-6.6.0.jar" />
-          <entry name="$MAVEN_REPOSITORY$/io/javalin/community/openapi/openapi-specification/6.6.0/openapi-specification-6.6.0.jar" />
+          <entry name="$MAVEN_REPOSITORY$/io/javalin/community/openapi/openapi-annotation-processor/6.7.0/openapi-annotation-processor-6.7.0.jar" />
+          <entry name="$MAVEN_REPOSITORY$/io/javalin/community/openapi/openapi-specification/6.7.0/openapi-specification-6.7.0.jar" />
           <entry name="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.18.1/jackson-databind-2.18.1.jar" />
           <entry name="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-annotations/2.18.1/jackson-annotations-2.18.1.jar" />
           <entry name="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-core/2.18.1/jackson-core-2.18.1.jar" />
@@ -38,8 +39,8 @@
           <entry name="$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib/1.9.22/kotlin-stdlib-1.9.22.jar" />
           <entry name="$MAVEN_REPOSITORY$/org/jetbrains/annotations/13.0/annotations-13.0.jar" />
           <entry name="$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.10.1/gson-2.10.1.jar" />
-          <entry name="$MAVEN_REPOSITORY$/org/apache/groovy/groovy/4.0.21/groovy-4.0.21.jar" />
-          <entry name="$MAVEN_REPOSITORY$/io/javalin/javalin/6.6.0/javalin-6.6.0.jar" />
+          <entry name="$MAVEN_REPOSITORY$/org/apache/groovy/groovy/4.0.27/groovy-4.0.27.jar" />
+          <entry name="$MAVEN_REPOSITORY$/io/javalin/javalin/6.7.0/javalin-6.7.0.jar" />
           <entry name="$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-server/11.0.25/jetty-server-11.0.25.jar" />
           <entry name="$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-http/11.0.25/jetty-http-11.0.25.jar" />
           <entry name="$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-io/11.0.25/jetty-io-11.0.25.jar" />
@@ -116,6 +117,7 @@
       <module name="qqq-backend-module-api" options="-Xlint:unchecked" />
       <module name="qqq-backend-module-filesystem" options="-Xlint:unchecked" />
       <module name="qqq-backend-module-mongodb" options="-Xlint:unchecked" />
+      <module name="qqq-backend-module-postgres" options="-Xlint:unchecked" />
       <module name="qqq-backend-module-rdbms" options="-Xlint:unchecked" />
       <module name="qqq-backend-module-sqlite" options="-Xlint:unchecked" />
       <module name="qqq-bom-pom" options="-Xlint:unchecked" />

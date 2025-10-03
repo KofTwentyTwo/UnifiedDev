@@ -1,5 +1,5 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="dbdropall" type="MavenRunConfiguration" factoryName="Maven">
+  <configuration default="false" name="dbdropall" type="MavenRunConfiguration" factoryName="Maven" folderName="kof22-website">
     <MavenSettings>
       <option name="myGeneralSettings">
         <MavenGeneralSettings>
@@ -58,7 +58,7 @@
             <list />
           </option>
           <option name="resolveToWorkspace" value="false" />
-          <option name="workingDirPath" value="$PROJECT_DIR$" />
+          <option name="workingDirPath" value="$PROJECT_DIR$/../Kof22/Website" />
         </MavenRunnerParameters>
       </option>
     </MavenSettings>

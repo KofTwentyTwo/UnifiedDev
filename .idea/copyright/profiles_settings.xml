@@ -3,8 +3,15 @@
     <module2copyright>
       <element module="All" copyright="kof22" />
     </module2copyright>
-    <LanguageOptions name="SQL">
+    <LanguageOptions name="DBN-PSQL">
       <option name="fileTypeOverride" value="1" />
+    </LanguageOptions>
+    <LanguageOptions name="DBN-SQL">
+      <option name="fileTypeOverride" value="1" />
+      <option name="block" value="false" />
+    </LanguageOptions>
+    <LanguageOptions name="SQL">
+      <option name="fileTypeOverride" value="3" />
       <option name="addBlankBefore" value="true" />
       <option name="block" value="false" />
       <option name="separateBefore" value="true" />

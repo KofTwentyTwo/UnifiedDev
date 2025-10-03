@@ -1,5 +1,5 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="ServerOnly" type="Application" factoryName="Application">
+  <configuration default="false" name="ServerOnly" type="Application" factoryName="Application" folderName="kof22-website">
     <envs>
       <env name="QQQ_DEPLOYMENT" value="dev" />
     </envs>

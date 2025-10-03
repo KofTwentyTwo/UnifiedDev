@@ -1,5 +1,5 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="qqq-install-locally" type="MavenRunConfiguration" factoryName="Maven">
+  <configuration default="false" name="qqq-install-locally" type="MavenRunConfiguration" factoryName="Maven" folderName="kof22-website">
     <MavenSettings>
       <option name="myGeneralSettings" />
       <option name="myRunnerSettings" />

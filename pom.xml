@@ -21,8 +21,7 @@
   <packaging>pom</packaging>
 
   <modules>
-    <module>Kingsrook/qqq</module>
-    <module>Kof22/Website</module>
-     <module>Kof22/Website-CD-Pipeline</module>
+      <module>QRun-IO/qqq</module>
+      <module>Kof22/Website</module>
   </modules>
 </project>

@@ -6,6 +6,9 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/../Kingsrook/frontend-material-dashboard/pom.xml" />
+        <option value="$PROJECT_DIR$/../Kingsrook/qqq-frontend-material-dashboard/pom.xml" />
+        <option value="$PROJECT_DIR$/../QRun-IO/qqq/pom.xml" />
+        <option value="$PROJECT_DIR$/../Kof22/Website/pom.xml" />
       </list>
     </option>
   </component>

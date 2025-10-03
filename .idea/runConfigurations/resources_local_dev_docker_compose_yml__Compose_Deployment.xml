@@ -1,5 +1,5 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="resources/local-dev_docker-compose.yml: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" server-name="Local Docker">
+  <configuration default="false" name="resources/local-dev_docker-compose.yml: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" folderName="kof22-website" server-name="Local Docker">
     <deployment type="docker-compose.yml">
       <settings>
         <option name="composeProjectName" value="kof22-website" />
