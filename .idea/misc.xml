@@ -11,6 +11,29 @@
         <option value="$PROJECT_DIR$/../Kof22/Website/pom.xml" />
       </list>
     </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/../Kof22/Website/pom.xml" />
+        <option value="$PROJECT_DIR$/../QRun-IO/qqq/pom.xml" />
+        <option value="$PROJECT_DIR$/../QRun-IO/qqq/qqq-backend-core/pom.xml" />
+        <option value="$PROJECT_DIR$/../QRun-IO/qqq/qqq-backend-module-api/pom.xml" />
+        <option value="$PROJECT_DIR$/../QRun-IO/qqq/qqq-backend-module-filesystem/pom.xml" />
+        <option value="$PROJECT_DIR$/../QRun-IO/qqq/qqq-backend-module-mongodb/pom.xml" />
+        <option value="$PROJECT_DIR$/../QRun-IO/qqq/qqq-backend-module-postgres/pom.xml" />
+        <option value="$PROJECT_DIR$/../QRun-IO/qqq/qqq-backend-module-rdbms/pom.xml" />
+        <option value="$PROJECT_DIR$/../QRun-IO/qqq/qqq-backend-module-sqlite/pom.xml" />
+        <option value="$PROJECT_DIR$/../QRun-IO/qqq/qqq-bom/pom.xml" />
+        <option value="$PROJECT_DIR$/../QRun-IO/qqq/qqq-language-support-javascript/pom.xml" />
+        <option value="$PROJECT_DIR$/../QRun-IO/qqq/qqq-middleware-api/pom.xml" />
+        <option value="$PROJECT_DIR$/../QRun-IO/qqq/qqq-middleware-javalin/pom.xml" />
+        <option value="$PROJECT_DIR$/../QRun-IO/qqq/qqq-middleware-lambda/pom.xml" />
+        <option value="$PROJECT_DIR$/../QRun-IO/qqq/qqq-middleware-picocli/pom.xml" />
+        <option value="$PROJECT_DIR$/../QRun-IO/qqq/qqq-middleware-slack/pom.xml" />
+        <option value="$PROJECT_DIR$/../QRun-IO/qqq/qqq-openapi/pom.xml" />
+        <option value="$PROJECT_DIR$/../QRun-IO/qqq/qqq-utility-lambdas/pom.xml" />
+        <option value="$PROJECT_DIR$/QRun-IO/qqq/qqq-middleware-slack/pom.xml" />
+      </set>
+    </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="jbr-21" project-jdk-type="JavaSDK" />
 </project>

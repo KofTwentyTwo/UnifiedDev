@@ -4,7 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Kof22/Website/kof22-website.iml" filepath="$PROJECT_DIR$/Kof22/Website/kof22-website.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Kingsrook/qqq-frontend-material-dashboard/qqq-frontend-material-dashboard.iml" filepath="$PROJECT_DIR$/../Kingsrook/qqq-frontend-material-dashboard/qqq-frontend-material-dashboard.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../QRun-IO/qqq/qqq-parent-project.iml" filepath="$PROJECT_DIR$/../QRun-IO/qqq/qqq-parent-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QRun-IO/qqq/qqq-parent-project.iml" filepath="$PROJECT_DIR$/QRun-IO/qqq/qqq-parent-project.iml" />
       <module fileurl="file://$PROJECT_DIR$/unified-parent.iml" filepath="$PROJECT_DIR$/unified-parent.iml" />
     </modules>
   </component>

@@ -4,3 +4,4 @@ target/
 QRunIO/
 Kof22/
 node_modules/
+.env

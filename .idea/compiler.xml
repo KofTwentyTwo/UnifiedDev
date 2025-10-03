@@ -6,25 +6,24 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="qqq-middleware-picocli" />
-        <module name="qqq-frontend-material-dashboard" />
         <module name="qqq-backend-module-postgres" />
         <module name="qqq-openapi" />
         <module name="qqq-backend-module-rdbms" />
-        <module name="qqq-utility-lambdas" />
         <module name="qqq-backend-module-filesystem" />
-        <module name="qqq-middleware-slack" />
-        <module name="qqq-language-support-javascript" />
         <module name="qqq-middleware-lambda" />
+        <module name="qqq-language-support-javascript" />
         <module name="qqq-backend-module-sqlite" />
         <module name="qqq-backend-core" />
-        <module name="qqq-backend-module-api" />
         <module name="qqq-middleware-api" />
+        <module name="qqq-sample-project" />
+        <module name="qqq-middleware-picocli" />
+        <module name="qqq-frontend-material-dashboard" />
+        <module name="qqq-utility-lambdas" />
+        <module name="qqq-backend-module-api" />
         <module name="qqq-backend-module-mongodb" />
         <module name="kof22-website" />
-        <module name="qqq-sample-project" />
       </profile>
-      <profile name="Annotation profile for QQQ - Low-code Application Framework" enabled="true">
+      <profile name="Annotation profile for unified-parent" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
@@ -109,6 +108,9 @@
         <module name="qqq-middleware-javalin" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="qqq-middleware-slack" target="17" />
+    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
